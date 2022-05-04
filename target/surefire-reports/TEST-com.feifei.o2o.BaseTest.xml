@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.feifei.o2o.BaseTest" time="0.056" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\o2o\target\test-classes;D:\o2o\target\classes;C:\Users\LuckyDog\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\LuckyDog\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\LuckyDog\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\LuckyDog\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\LuckyDog\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-core\4.3.7.RELEASE\spring-core-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-beans\4.3.7.RELEASE\spring-beans-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-context\4.3.7.RELEASE\spring-context-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-aop\4.3.7.RELEASE\spring-aop-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-expression\4.3.7.RELEASE\spring-expression-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-jdbc\4.3.7.RELEASE\spring-jdbc-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-tx\4.3.7.RELEASE\spring-tx-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-web\4.3.7.RELEASE\spring-web-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-test\4.3.7.RELEASE\spring-test-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar;C:\Users\LuckyDog\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.2\jackson-databind-2.13.2.jar;C:\Users\LuckyDog\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.2\jackson-annotations-2.13.2.jar;C:\Users\LuckyDog\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.2\jackson-core-2.13.2.jar;C:\Users\LuckyDog\.m2\repository\commons-collections\commons-collections\3.2\commons-collections-3.2.jar;C:\Users\LuckyDog\.m2\repository\org\mybatis\mybatis\3.4.2\mybatis-3.4.2.jar;C:\Users\LuckyDog\.m2\repository\org\mybatis\mybatis-spring\1.3.1\mybatis-spring-1.3.1.jar;C:\Users\LuckyDog\.m2\repository\mysql\mysql-connector-java\8.0.16\mysql-connector-java-8.0.16.jar;C:\Users\LuckyDog\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\LuckyDog\.m2\repository\com\mchange\c3p0\0.9.2\c3p0-0.9.2.jar;C:\Users\LuckyDog\.m2\repository\com\mchange\mchange-commons-java\0.2.3.3\mchange-commons-java-0.2.3.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="D:\Program\Environment\Java\jdk-17.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\LuckyDog\AppData\Local\Temp\surefire2512326857293532845\surefirebooter18049097783470156567.jar C:\Users\LuckyDog\AppData\Local\Temp\surefire2512326857293532845 2022-04-22T16-58-07_008-jvmRun1 surefire16575557345715741282tmp surefire_07231030814269802143tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\o2o\target\test-classes;D:\o2o\target\classes;C:\Users\LuckyDog\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\LuckyDog\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\LuckyDog\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\LuckyDog\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\LuckyDog\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-core\4.3.7.RELEASE\spring-core-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-beans\4.3.7.RELEASE\spring-beans-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-context\4.3.7.RELEASE\spring-context-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-aop\4.3.7.RELEASE\spring-aop-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-expression\4.3.7.RELEASE\spring-expression-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-jdbc\4.3.7.RELEASE\spring-jdbc-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-tx\4.3.7.RELEASE\spring-tx-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-web\4.3.7.RELEASE\spring-web-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\org\springframework\spring-test\4.3.7.RELEASE\spring-test-4.3.7.RELEASE.jar;C:\Users\LuckyDog\.m2\repository\javax\servlet\javax.servlet-api\4.0.1\javax.servlet-api-4.0.1.jar;C:\Users\LuckyDog\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.2\jackson-databind-2.13.2.jar;C:\Users\LuckyDog\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.2\jackson-annotations-2.13.2.jar;C:\Users\LuckyDog\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.2\jackson-core-2.13.2.jar;C:\Users\LuckyDog\.m2\repository\commons-collections\commons-collections\3.2\commons-collections-3.2.jar;C:\Users\LuckyDog\.m2\repository\org\mybatis\mybatis\3.4.2\mybatis-3.4.2.jar;C:\Users\LuckyDog\.m2\repository\org\mybatis\mybatis-spring\1.3.1\mybatis-spring-1.3.1.jar;C:\Users\LuckyDog\.m2\repository\mysql\mysql-connector-java\8.0.16\mysql-connector-java-8.0.16.jar;C:\Users\LuckyDog\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar;C:\Users\LuckyDog\.m2\repository\com\mchange\c3p0\0.9.2\c3p0-0.9.2.jar;C:\Users\LuckyDog\.m2\repository\com\mchange\mchange-commons-java\0.2.3.3\mchange-commons-java-0.2.3.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\LuckyDog"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.home" value="D:\Program\Environment\Java\jdk-17.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\o2o"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\LuckyDog\AppData\Local\Temp\surefire2512326857293532845\surefirebooter18049097783470156567.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
+    <property name="user.name" value="LuckyDog"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\LuckyDog\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\LuckyDog\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.1"/>
+    <property name="user.dir" value="D:\o2o"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\Program\Environment\Java\jdk-17.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Program\Environment\Anaconda3;D:\Program\Environment\Anaconda3\Library\mingw-w64\bin;D:\Program\Environment\Anaconda3\Library\usr\bin;D:\Program\Environment\Anaconda3\Library\bin;D:\Program\Environment\Anaconda3\Scripts;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program\Environment\Java\jdk-17.0.1\bin;D:\Program\Environment\Java\jdk-17.0.1\jre\bin;D:\Program\Environment\nodejs\;D:\Program\Environment\Git\cmd;D:\Program\Environment\Git\bin;D:\Program\Environment\Git\mingw64\libexec\git-core;D:\Program\Environment\apache-maven-3.8.4\bin;D:\Program\Environment\gradle-7.4\bin;C:\Users\LuckyDog\AppData\Local\Microsoft\WindowsApps;D:\Software\Bandizip\;D:\Program\Tools\Microsoft VS Code\bin;C:\Users\LuckyDog\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.1+12-LTS-39"/>
+    <property name="idea.version2019.3" value="true"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="initializationError" classname="com.feifei.o2o.BaseTest" time="0.003">
+    <error message="No runnable methods" type="java.lang.Exception">java.lang.Exception: No runnable methods
+</error>
+  </testcase>
+</testsuite>

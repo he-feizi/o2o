@@ -1,0 +1,12 @@
+Index: src/main/java/com/feifei/o2o/web/superadmin/Test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/feifei/o2o/web/superadmin/Test.java	(date 1651649783298)
++++ src/main/java/com/feifei/o2o/web/superadmin/Test.java	(date 1651649783298)
+@@ -0,0 +1,4 @@
++package com.feifei.o2o.web.superadmin;
++
++public class Test {
++}
