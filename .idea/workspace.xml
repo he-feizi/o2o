@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e17c0d2-57a2-4450-b207-81f5333a1e6b" name="Default Changelist" comment="https://github.com/he-feizi/o2o">
+    <list default="true" id="2e17c0d2-57a2-4450-b207-81f5333a1e6b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -307,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651649837421</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="https://github.com/he-feizi/o2o">
+      <created>1651652974943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651652974943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +322,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="基于SSM+SpringBoot商铺系统" />
-    <option name="LAST_COMMIT_MESSAGE" value="基于SSM+SpringBoot商铺系统" />
+    <MESSAGE value="https://github.com/he-feizi/o2o" />
+    <option name="LAST_COMMIT_MESSAGE" value="https://github.com/he-feizi/o2o" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="139" key="#Inspections" timestamp="1647310186816">
@@ -354,10 +362,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="465" y="170" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1650617190443" />
-    <state x="357" y="74" width="784" height="561" key="CommitChangelistDialog2" timestamp="1651652764090">
+    <state x="357" y="74" width="784" height="561" key="CommitChangelistDialog2" timestamp="1651652974063">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="357" y="74" width="784" height="561" key="CommitChangelistDialog2/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1651652764090" />
+    <state x="357" y="74" width="784" height="561" key="CommitChangelistDialog2/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1651652974063" />
     <state x="144" y="79" key="DiffContextDialog" timestamp="1651652558223">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
