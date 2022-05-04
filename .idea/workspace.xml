@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e17c0d2-57a2-4450-b207-81f5333a1e6b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e17c0d2-57a2-4450-b207-81f5333a1e6b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -314,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651652974943</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="https://github.com/he-feizi/o2o">
+      <created>1651653009661</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651653009661</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,10 +367,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="465" y="170" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1650617190443" />
-    <state x="357" y="74" width="784" height="561" key="CommitChangelistDialog2" timestamp="1651652974063">
+    <state x="357" y="74" width="784" height="561" key="CommitChangelistDialog2" timestamp="1651653867515">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="357" y="74" width="784" height="561" key="CommitChangelistDialog2/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1651652974063" />
+    <state x="357" y="74" width="784" height="561" key="CommitChangelistDialog2/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1651653867515" />
     <state x="144" y="79" key="DiffContextDialog" timestamp="1651652558223">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -463,10 +468,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="338" y="74" width="994" height="713" key="SettingsEditor/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1651647060258" />
-    <state x="343" y="201" key="Vcs.Push.Dialog.v2" timestamp="1651650236049">
+    <state x="343" y="201" key="Vcs.Push.Dialog.v2" timestamp="1651653842061">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="343" y="201" key="Vcs.Push.Dialog.v2/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1651650236049" />
+    <state x="343" y="201" key="Vcs.Push.Dialog.v2/0.0.1500.960/451.-1080.1920.1040@0.0.1500.960" timestamp="1651653842061" />
     <state x="296" y="181" width="905" height="597" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1647212562516">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
